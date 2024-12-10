@@ -17,7 +17,7 @@ $messages = fetchMessages($user_id);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Messages</title>
-    <link rel="stylesheet" href="styles/messages.css"> <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="styles/messages.css">
 </head>
 <body>
     <div class="container">
